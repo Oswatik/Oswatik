@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1>Bonjour!! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1616468410/23789/hello-kitty.gif?1616468410" width="35"></h1>
+<h1>Bonjour!! ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 
 I'm A Swatik, a final year student pursuing Food Processing Engineering from NIT Rourkela, India. I have a passion for developing user-focused projects and a knack for creating captivating designs.
 
@@ -20,6 +20,19 @@ I'm A Swatik, a final year student pursuing Food Processing Engineering from NIT
 - 💻 Excels at coding from scratch, merging technical and visual elements for <strong> pixel-perfect designs. </strong>
 - 🔥 Skilled storyteller and presenter, combining technical expertise with <strong>captivating narratives. </strong>
 - 🔍 I’m looking for <strong> career opportunities</strong>.
+- 💼 I'm a student in NIT rourkela 
+- 💬 Talk to me about Data science, Machine learning and software development 
+- 👯 I’m looking to collaborate on LangChain projects 
+
+<a href="https://www.linkedin.com/in/swatik/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
+  <a href="https://www.kaggle.com/swatik" target="_blank">
+    <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+  </a> 
+  <a href="mailto:oswatik@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> 
 
 
 
