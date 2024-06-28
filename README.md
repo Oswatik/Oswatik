@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1>Bonjour!! ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+<h1>Bonjour!! <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 
 I'm A Swatik, a final year student pursuing Food Processing Engineering from NIT Rourkela, India. I have a passion for developing user-focused projects and a knack for creating captivating designs.
 
