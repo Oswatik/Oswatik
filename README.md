@@ -36,6 +36,8 @@ I'm A Swatik, a final year student pursuing Food Processing Engineering from NIT
 
 ### Tools I work with: 🛠
 
+<br>
+
 <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white">   <img src="https://img.shields.io/badge/JAVA%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/Golang%20-%230D597F.svg?&style=for-the-badge&logo=sql&logoColor=white">   <img src="https://img.shields.io/badge/Windows%20-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white">   
    
    <a href="https://flutter.dev/" target="_blank"> 
