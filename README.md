@@ -74,6 +74,10 @@ I'm A Swatik, a final year student pursuing Food Processing Engineering from NIT
    <a href="https://opencv.org/" target="_blank">
     <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
   </a>
+
+  <a href="https://www.mysql.com/">
+   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
    
 
    <a href="https://www.heroku.com/">
