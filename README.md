@@ -92,7 +92,7 @@ I'm A Swatik, a final year student pursuing Food Processing Engineering from NIT
    </a>
 <a href="https://fastapi.tiangolo.com/"><img alt="Flask" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"></a>
 <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+
 
 <br>
 <br>
