@@ -20,9 +20,7 @@ I'm A Swatik, a final year student pursuing Food Processing Engineering from NIT
 - 💻 Excels at coding from scratch, merging technical and visual elements for <strong> pixel-perfect designs. </strong>
 - 🔥 Skilled storyteller and presenter, combining technical expertise with <strong>captivating narratives. </strong>
 - 🔍 I’m looking for <strong> career opportunities</strong>.
-- 💼 I'm a student in NIT rourkela 
-- 💬 Talk to me about Data science, Machine learning and software development 
-- 👯 I’m looking to collaborate on LangChain projects 
+
 
 <a href="https://www.linkedin.com/in/swatik/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
