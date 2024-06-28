@@ -7,7 +7,7 @@ I'm A Swatik, a final year student pursuing Food Processing Engineering from NIT
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Web+Developer+with+a+Creative+Flair;UI/UX+Designer+with+a+Human+Touch;Presenter+with+a+Compelling+Passion)](https://git.io/typing-svg)
 
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=400px height=400px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🔭 I’m actively participating in <strong>hackathons</strong>
 - 💖 I’m currently in love with creating <strong>pitch decks</strong>
