@@ -7,16 +7,13 @@ I'm A Swatik, a final year student pursuing Food Processing Engineering from NIT
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Web+Developer+with+a+Creative+Flair;UI/UX+Designer+with+a+Human+Touch;Presenter+with+a+Compelling+Passion)](https://git.io/typing-svg)
 
 
-
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🔭 I’m actively participating in <strong>hackathons</strong>
 - 💖 I’m currently in love with creating <strong>pitch decks</strong>
-- 👯 I’m looking to collaborate on <strong>Full-Stack projects where I can contribute in both design and development aspects.</strong>
 - 🤔 I’m looking for help with <strong>open-source contributions</strong>
 - 💬 Ask me about <strong>creating user focused designs</strong>
 - 🌱 I’m currently learning <strong>System Design</strong>
-- 💻 Excels at coding from scratch, merging technical and visual elements for <strong> pixel-perfect designs. </strong>
-- 🔥 Skilled storyteller and presenter, combining technical expertise with <strong>captivating narratives. </strong>
 - 🔍 I’m looking for <strong> career opportunities</strong>.
 
 
