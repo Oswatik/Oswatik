@@ -10,9 +10,13 @@ I'm A Swatik, a final year student pursuing Food Processing Engineering from NIT
 <img align="right" width=300px height=300px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🔭 I’m actively participating in <strong>hackathons</strong>
+
 - 💖 I’m currently in love with reading <strong>Reasearch Papers</strong>
+
 - 🌱 I’m currently learning <strong>Application focused ML</strong>
+
 - 👯 I’m looking to collaborate on <strong>NLP and Langchain</strong>
+
 - 🔍 I’m looking for <strong> career opportunities</strong>.
 
 <br>
